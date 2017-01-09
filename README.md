@@ -6,7 +6,7 @@ Bindings for i2c-dev. Plays well with Raspberry Pi and Beaglebone.
 ## Install
 
 ````bash
-$ npm install i2c
+$ npm install i2cjs
 ````
 
 ## Usage
