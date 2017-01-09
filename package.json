@@ -6,7 +6,7 @@
   "author": "Kelly Korevec",
   "repository": {
     "type": "git",
-    "url": "http://github.com/korevec/node-i2c.git"
+    "url": "http://github.com/scramble45/i2cjs.git"
   },
   "license": "BSD-3-Clause-Attribution",
   "dependencies": {
